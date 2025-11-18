@@ -2,3 +2,18 @@
 	background: #ffc107;
 	color: white;
 }
+
+.button{
+	display: contents;
+}
+
+.caixa{
+	margin: 0 auto;
+	width: 80vw;
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a{
+	margin: 5px 15px;
+}
